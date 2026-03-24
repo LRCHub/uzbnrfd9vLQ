@@ -1,0 +1,108 @@
+# Michael Jackson – The Way You Make Me Feel
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.95] Hee-hee
+[00:23.59] Ooh
+[00:25.72] Go'n girl
+[00:30.22] 
+[00:29.47] Ow
+[00:30.47] 
+[00:32.05] Hee
+[00:33.55] 
+[00:38.84] Hey, pretty baby, with the high heels on
+[00:42.99] You give me fever, like I've never, ever known
+[00:46.95] You're just a product of, loveliness
+[00:51.50] I like the groove of your walk, your talk, your dress
+[00:55.33] I feel your fever from miles around
+[00:59.65] I'll pick you up in my car and we'll paint the town
+[01:03.99] Just kiss me baby and tell me twice
+[01:08.05] That you're the one for me
+[01:10.63] The way you make me feel
+[01:12.33] (The way you make me feel)
+[01:14.69] You really turn me on
+[01:16.65] (You really turn me on)
+[01:18.15] You knock me off of my feet
+[01:20.70] (You knock me off of my feet)
+[01:23.03] My lonely days are gone
+[01:24.71] (My lonely days are gone)
+[01:37.21] 
+[01:29.31] I like the feelin' you're givin' me
+[01:33.15] Just hold me baby and I'm in ecstasy
+[01:37.66] Oh, I'll be workin' from nine to five
+[01:41.86] To buy ya things to keep you by my side
+[01:46.27] I never felt so in love before
+[01:50.29] Just promise baby, you'll love me forevermore
+[01:54.31] I swear I'm keepin' you satisfied
+[01:58.65] 'Cause you're the one for me
+[02:00.54] The way you make me feel
+[02:02.56] (The way you make me feel)
+[02:04.75] You really turn me on
+[02:06.91] (You really turn me on)
+[02:09.08] You knock me off of my feet, now baby
+[02:11.52] (You knock me off of my feet)
+[02:13.34] My lonely days are gone
+[02:15.55] (My lonely days are gone)
+[02:17.31] Acha-ooh
+[02:21.31] 
+[02:20.96] Go'n girl
+[02:23.23] Go'n
+[02:25.31] Hee-hee
+[02:27.12] Ow
+[02:29.72] Go'n girl
+[02:34.22] 
+[02:36.36] I never felt so in love before
+[02:40.51] Promise baby, you'll love me forevermore
+[02:44.74] I swear I'm keepin' you satisfied
+[02:48.87] 'Cause you're the one for me
+[02:51.11] The way you make me feel
+[02:53.02] (The way you make me feel)
+[02:55.19] You really turn me on
+[02:57.18] (You really turn me on)
+[02:59.49] You knock me off of my feet, now baby
+[03:02.07] (You knock me off of my feet)
+[03:03.86] My lonely days are gone
+[03:05.84] (My lonely days are gone)
+[03:07.93] The way you make me feel
+[03:10.12] (The way you make me feel)
+[03:12.24] You really turn me on
+[03:14.38] (You really turn me on)
+[03:16.38] You knock me off of my feet, now baby
+[03:19.00] (You knock me off of my feet)
+[03:20.58] My lonely days are gone
+[03:22.59] (My lonely days are gone)
+[03:24.83] Ain't nobody's business (the way you make me feel)
+[03:27.37] Ain't nobody's business
+[03:29.47] Ain't nobody's business (you really turn me on)
+[03:31.78] Ain't nobody's business
+[03:33.81] But mine and my baby
+[03:35.24] (You knock me off of my feet) hee-hee
+[03:37.90] Hee-hee, ooh
+[03:39.45] (My lonely days are gone)
+[03:42.08] Give it to me (the way you make me feel)
+[03:44.54] Give me some time
+[03:46.37] Come on be my girl (you really turn me on)
+[03:48.67] I wanna be with mine
+[03:50.24] Ain't nobody's business (you knock me off of my feet)
+[03:52.41] Ain't nobody's business
+[03:54.62] But mine and my baby's (my lonely days are gone)
+[03:57.78] Go'n girl, ow
+[04:01.87] Hee-hee, ooh
+[04:07.87] 
+[04:07.25] Choo-coo, choo-coo
+[04:16.25] 
+[04:10.49] Choo-coo, choo-coo, choo-coo
+[04:24.49] 
+[04:15.34] Go'n girl
+[04:17.10] (The way you make me feel) hee hee
+[04:19.75] Hee-hee-hee!
+[04:21.04] (You really turn me on)
+[04:25.16] (You knock me off of my feet)
+[04:29.40] (My lonely days are gone)
+[04:33.60] (The way you make me feel)
+[04:38.30] (You really turn me on)
+[04:42.51] (You knock me off of my feet)
+[04:46.54] (My lonely days are gone)
+[04:51.04] (The way you make me feel)
+```
