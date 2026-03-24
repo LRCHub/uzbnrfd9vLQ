@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "The Way You Make Me Feel",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-03-24T12:29:08.905020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/01_The_Way_You_Make_Me_Feel_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/02_The_Way_You_Make_Me_Feel_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The way you make me feel",
+      "artist": "莫文蔚",
+      "has_synced": true,
+      "path": "select/03_The_way_you_make_me_feel_莫文蔚.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_The_Way_You_Make_Me_Feel_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's the Way You Make Me Feel",
+      "artist": "Steps",
+      "has_synced": true,
+      "path": "select/05_It's_the_Way_You_Make_Me_Feel_Steps.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/06_The_Way_You_Make_Me_Feel_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_The_Way_You_Make_Me_Feel_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_The_Way_You_Make_Me_Feel_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The way you make me feel",
+      "artist": "Jackson, Michael",
+      "has_synced": true,
+      "path": "select/09_The_way_you_make_me_feel_Jackson,_Michael.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/10_The_Way_You_Make_Me_Feel_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_The_Way_You_Make_Me_Feel_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Way You Make Me Feel",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/12_The_Way_You_Make_Me_Feel_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Way Make Me Feel",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/13_The_Way_Make_Me_Feel_Ronan_Keating.lrc"
+    }
+  ]
+}
